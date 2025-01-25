@@ -4,11 +4,6 @@
   <h3 align="center"><em>Exploring Machine Learning and AI in Life Sciences and Health from Bangladesh</em></h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustakkhan23&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mustakkhan23?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mustakkhan23?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</p>
 
 ## 🚀 Quick Facts
 
